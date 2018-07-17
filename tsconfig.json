@@ -18,16 +18,16 @@
     ],
     "paths": {
       "sample-lib1": [
-        "dist/sample-lib1"
+        "libs/sample-lib1/src"
       ],
       "sample-lib1/*": [
-        "dist/sample-lib1/*"
+        "libs/sample-lib1/src/*"
       ],
       "sample-lib2": [
-        "dist/sample-lib2"
+        "libs/sample-lib2/src"
       ],
       "sample-lib2/*": [
-        "dist/sample-lib2/*"
+        "libs/sample-lib2/src/*"
       ]
     }
   }
