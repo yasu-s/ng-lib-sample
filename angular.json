@@ -176,5 +176,8 @@
       }
     }
   },
-  "defaultProject": "sample-app"
+  "defaultProject": "sample-app",
+  "cli": {
+    "analytics": false
+  }
 }
