@@ -4,4 +4,5 @@
 
 export * from './lib/sample-lib2.service';
 export * from './lib/sample-lib2.component';
+export * from './lib/sample-lib2.model';
 export * from './lib/sample-lib2.module';
